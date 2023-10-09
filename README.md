@@ -18,14 +18,6 @@
 
 ###
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vorstcavry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moonlight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vorstcavry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moonlight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="center">Support Me</h2>
 
 <h3 align="center"><img alt="TRAKTEER" src="https://img.shields.io/badge/trakteer-F16061?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a> <a href="https://saweria.co/VorstCavry"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-7B3F00?style=for-the-badge&logo=ko-fi&logoColor=white"/></a> <a href="https://ko-fi.com/vorstcavry"><img alt="KO-FI" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white "/></a> <a href="https://trakteer.id/vorstcavry/tip"><a href="https://www.paypal.com/paypalme/vorstcavry?country.x=ID&locale.x=id_ID"><img alt="PAYPAL" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a><center/></h3>
