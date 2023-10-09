@@ -8,9 +8,6 @@
   <a href="https://github.com/vorstcavry">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vorstcavry&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  </p>
-<h2 align="center">Stats</h2>
-<p align="center">
   <a href="https://github.com/vorstcavry">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vorstcavry&theme=transparent" />
   </a>
